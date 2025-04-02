@@ -213,7 +213,6 @@ nav ul {
 }
 
 /* Additional media queries for better responsiveness */
-/* For devices between 769px and 992px */
 @media (min-width: 769px) and (max-width: 992px) {
   .hero h1 {
     font-size: calc(3vw + 1.5rem); /* Adjusted for medium screens */
